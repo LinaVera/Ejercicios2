@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Ejercicios2.caracter</StartupObject>
+    <StartupObject>Ejercicios2.TamañoNumero</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,19 +46,27 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="año.cs" />
-    <Compile Include="AñoBi.cs" />
-    <Compile Include="Calculadora.cs" />
-    <Compile Include="caracter.cs" />
-    <Compile Include="divisible.cs" />
-    <Compile Include="maximo.cs" />
-    <Compile Include="maximo3.cs" />
-    <Compile Include="Mes.cs" />
-    <Compile Include="NegativoPositivoCero.cs" />
-    <Compile Include="paroimpar.cs" />
+    <Compile Include="22.TablaMultiplicar.cs" />
+    <Compile Include="16.Alfabeto.cs" />
+    <Compile Include="4.año.cs" />
+    <Compile Include="13.Calculadora.cs" />
+    <Compile Include="7.divisible.cs" />
+    <Compile Include="18.impar.cs" />
+    <Compile Include="1.maximo.cs" />
+    <Compile Include="2.maximo3.cs" />
+    <Compile Include="12.Mes.cs" />
+    <Compile Include="14.Naturales.cs" />
+    <Compile Include="15.NaturalesAlReves.cs" />
+    <Compile Include="6.NegativoPositivoCero.cs" />
+    <Compile Include="17.pares.cs" />
+    <Compile Include="3.paroimpar.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Semana.cs" />
+    <Compile Include="11.Semana.cs" />
+    <Compile Include="21.sumaImpar.cs" />
+    <Compile Include="20.sumaPar.cs" />
+    <Compile Include="19.SumaTotal.cs" />
+    <Compile Include="TamañoNumero.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
