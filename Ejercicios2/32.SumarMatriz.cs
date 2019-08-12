@@ -12,7 +12,7 @@ namespace Ejercicios2
         {
             int[,] mat;
             mat = llenarMatriz();
-
+            SumaMatriz(mat);
         }
         public static int[,] llenarMatriz()
         {

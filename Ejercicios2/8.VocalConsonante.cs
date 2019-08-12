@@ -17,7 +17,7 @@ namespace Ejercicios2
         }
         private static void caracter(char l)
         {
-            if (l=='a' || l == 'e' || l == 'i' || l == 'o' || l == 'u')
+            if (l=='a' || l == 'e' || l == 'i' || l == 'o' || l == 'u'|| l == 'A' || l == 'E' || l == 'I' || l == 'O' || l == 'U')
             {
                 Console.WriteLine("Es una vocal");
             }
