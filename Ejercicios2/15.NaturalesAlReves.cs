@@ -17,6 +17,8 @@ namespace Ejercicios2
         }
         public static void reves(int n)
         {
+
+
             int i = n;
             if (n>0) {
                 while (i >= 1)
